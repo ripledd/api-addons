@@ -11,6 +11,7 @@ With this API developers are able to create bots that will post automatically in
 Connection to Speecher's server
 
 (*Using Python on this example*)
+
 *Public API url*
 - API url: https://speecher.me/dev/api/post.php
 
