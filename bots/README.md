@@ -14,7 +14,7 @@ Connection to Speecher's server
 *Public API url*
 - API url: https://speecher.me/dev/api/post.php
 
-*Connection credentials
+*Connection credentials*
 - Conn: Email = spchr_auth_email, sha256 password: spchr_auth_pw_hash.
 
 *Data posting*
