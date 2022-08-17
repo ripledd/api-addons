@@ -4,13 +4,13 @@
 comp_data = "value"
 
 
-# Send/post data in Speecher via channel
+# Send/post data in Ripledd via channel
 
 import pycurl
 from urllib.parse import urlencode
 
 c = pycurl.Curl()
-c.setopt(c.URL, 'https://speecher.me/dev/api/post.php')
+c.setopt(c.URL, 'https://ripledd.com/dev/api/post.php')
 
 # Important!(set values and configure account's log in details, email and password with sha256 encryption.)
 post_data = 
