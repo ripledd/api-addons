@@ -1,5 +1,0 @@
-
-
-Please visit https://videojs.com/ for further information
-
-Speecher video players are using https://videojs.com/ engine, with some modifications made by Speecher
