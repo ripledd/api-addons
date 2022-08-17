@@ -30,7 +30,7 @@
 
   c = pycurl.Curl()
   #initializing the request URL
-  c.setopt(c.URL, 'https://speecher.me/dev/api/post.php')
+  c.setopt(c.URL, 'https://ripledd.com/dev/api/post.php')
   #the data that we need to Post
   post_data = {'spchr_auth_email': 'examplemail@mymail.com', 'spchr_auth_pw_hash': '1f3fff1fa07e998e86f7f7a27ae3', 'send_data': comp_data}
   # encoding the string to be used as a query
